@@ -23,5 +23,9 @@ CAN THIS EVEN BE USED ?
 
 This software is extremely BETA.
 
-It may or may not work for you. It was written by a complete idiot (me!) who knows nothing about the right way to code on Mac, knows nothing about low level driver coding - I don't even know objective-C language or how to use XCode properly - so it is miracly this works AT ALL.
+It may or may not work for you. 
+It was written by a complete idiot (me!) who knows nothing about the right way to code on Mac, knows nothing about low level driver coding - I don't even know objective-C language or how to use XCode properly - so it is miracly this works AT ALL.
+
+Just open the project with XCode, and build it. Hope it works for you.
+
 
